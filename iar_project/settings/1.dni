@@ -1,0 +1,90 @@
+[DebugChecksum]
+Checksum=1364351801
+[DisAssemblyWindow]
+NumStates=_ 1
+State 1=_ 0
+[InstructionProfiling]
+Enabled=_ 0
+[CodeCoverage]
+Enabled=_ 0
+[Profiling]
+Enabled=0
+[StackPlugin]
+Enabled=1
+OverflowWarningsEnabled=1
+WarningThreshold=90
+SpWarningsEnabled=1
+WarnHow=0
+UseTrigger=1
+TriggerName=main
+LimitSize=0
+ByteLimit=50
+[TraceHelper]
+Enabled=0
+ShowSource=1
+[Breakpoints]
+Count=0
+[Stack]
+FillEnabled=0
+OverflowWarningsEnabled=1
+WarningThreshold=90
+SpWarningsEnabled=1
+WarnLogOnly=1
+UseTrigger=1
+TriggerName=main
+LimitSize=0
+ByteLimit=50
+[Exceptions]
+StopOnUncaught=_ 0
+StopOnThrow=_ 0
+[CallStack]
+ShowArgs=0
+[Disassembly]
+MixedMode=1
+[InterruptLog]
+LogEnabled=0
+SumEnabled=0
+GraphEnabled=0
+ShowTimeLog=1
+ShowTimeSum=1
+SumSortOrder=0
+[Interrupts]
+Enabled=1
+[MemoryMap]
+Enabled=0
+Base=0
+UseAuto=0
+TypeViolation=1
+UnspecRange=1
+ActionState=1
+[Trace1]
+Enabled=0
+ShowSource=1
+[watch_formats]
+Fmt0={W}0:current_item_number	3	0
+Fmt1={W}0:current_selected_pos	3	0
+[Log file]
+LoggingEnabled=_ 0
+LogFile=_ ""
+Category=_ 0
+[TermIOLog]
+LoggingEnabled=_ 0
+LogFile=_ ""
+[CallStackLog]
+Enabled=0
+[DriverProfiling]
+Enabled=0
+Mode=0
+Graph=0
+Symbiont=0
+Exclusions=
+[Disassemble mode]
+mode=0
+[Breakpoints2]
+Count=0
+[Aliases]
+A0=_ "D:\MYPROGS\STM32\CO2\PROG3\src\StdPeriphLib\stm32f10x_i2c.c" ""
+A1=_ "D:\MYPROGS\STM32\CO2\PROG3\src\StdPeriphLib\stm32f10x_rtc.c" ""
+A2=_ "D:\SHARE\STM32\CO2\PROG3\PROG4\src\main.c" "D:\MYPROGS\STM32\CO2\PROG4\PROG4\src\main.c"
+Count=3
+SuppressDialog=1
