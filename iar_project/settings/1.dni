@@ -88,3 +88,5 @@ A1=_ "D:\MYPROGS\STM32\CO2\PROG3\src\StdPeriphLib\stm32f10x_rtc.c" ""
 A2=_ "D:\SHARE\STM32\CO2\PROG3\PROG4\src\main.c" "D:\MYPROGS\STM32\CO2\PROG4\PROG4\src\main.c"
 Count=3
 SuppressDialog=1
+[StLinkDriver]
+CStepIntDis=_ 0
